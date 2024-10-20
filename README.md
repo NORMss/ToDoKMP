@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://android-arsenal.com/api?level=26"><img alt="API" src="https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat"/>
-    <a href="https://github.com/normss/MovieCatalogApp/releases"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"/>
+    <a href="https://github.com/normss/ToDoKMP/releases"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 ## Download
-Go to the [Releases](https://github.com/normss/MovieCatalogApp/releases) to download the latest APK.
+Go to the [Releases](https://github.com/normss/ToDoKMP/releases) to download the latest APK.
 
 ## This is a Kotlin Multiplatform project targeting Android, iOS.
 
